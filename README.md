@@ -1,1 +1,2 @@
-[centre]# Mirrorz-stuff[/centre]
+<p align="center">
+# Mirrorz-stuff
