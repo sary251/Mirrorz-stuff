@@ -1,1 +1,1 @@
-# Mirrorz-stuff
+[centre]# Mirrorz-stuff[/centre]
